@@ -1,6 +1,6 @@
 # state_demo
 
-Hiii this is Shubham Mane
+friendship day
 
 A new Flutter project.
 
